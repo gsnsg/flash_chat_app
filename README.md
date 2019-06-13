@@ -1,16 +1,12 @@
 # flash_chat_app
 
-A new Flutter application.
+A simple group chat app amde using flutter, dart and firebase. This is app is still in development and would be adding new features in future.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## App Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<img src = "images/pic4.jpg" height=500>  <img src = "images/pic2.jpg" height=500> <img src = "images/pic3.jpg" height=500>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+
+- [Resolving common errors encountered while developing app](https://blog.londonappbrewery.com/troubleshooting-firebase-x-flutter-a974b2645689)
