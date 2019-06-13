@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "697869340776",
+    "firebase_url": "https://flash-5f4fb.firebaseio.com",
+    "project_id": "flash-5f4fb",
+    "storage_bucket": "flash-5f4fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697869340776:android:d817976cae04edd2",
+        "android_client_info": {
+          "package_name": "com.nikhit.flash_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697869340776-5hg5n39ee8ensbfia72h2f9lsv05fobm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG79jUyw96RUqZwptV1ybgBJdJj_OlU0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697869340776-5hg5n39ee8ensbfia72h2f9lsv05fobm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
