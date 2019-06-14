@@ -1,6 +1,6 @@
 # flash_chat_app
 
-A simple group chat app amde using flutter, dart and firebase. This is app is still in development and would be adding new features in future.
+A simple group chat app made using flutter, dart and firebase. This is app is still in development and would be adding new features in future.
 
 
 ## App Screenshots
